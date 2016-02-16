@@ -63,7 +63,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.908186" lon=" 35.363259°">  <ele>550</ele>
+  <wpt lat="32.908186" lon="35.363259">  <ele>550</ele>
     <name>KAM055</name>
     <desc>KAMON_TO</desc>
     <extensions>
