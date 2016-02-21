@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1/" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1/ http://www.topografix.com/GPX/1/1//gpx.xsd" creator="FlyChart, Version 4.57, Sep. 1st 2014 - http://www.flytec.ch">
   <wpt lat="32.095943" lon="35.461833">  <ele>350</ele>
     <name>SRT035</name>
-    <desc>SARTABA</desc>
+    <desc>SARTABA_PE</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
@@ -15,20 +15,20 @@
     </extensions>
   </wpt>
   <wpt lat="33.026747" lon="35.624635">  <ele>75</ele>
-    <name>GAD000</name>
+    <name>GAD007</name>
     <desc>GADOT_LZ</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.925314" lon="35.638922">  <ele>-60</ele>
+  <wpt lat="32.925314" lon="35.638922">  <ele>-65</ele>
     <name>HAD000</name>
     <desc>HAD_NESS_LZ</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.883799" lon="35.644960">  <ele>-200</ele>
+  <wpt lat="32.883799" lon="35.644960">  <ele>-205</ele>
     <name>MAG000</name>
     <desc>MAALE_GAMLA_JU</desc>
     <extensions>
@@ -42,15 +42,15 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.888616" lon="35.342927">  <ele>200</ele>
-    <name>KAM020</name>
+  <wpt lat="32.888616" lon="35.342927">  <ele>195</ele>
+    <name>KAM019</name>
     <desc>KAMON_LZ</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.927773" lon="35.250260">  <ele>540</ele>
-    <name>TUV540</name>
+  <wpt lat="32.927773" lon="35.250260">  <ele>510</ele>
+    <name>TUV051</name>
     <desc>TUVAL_PE</desc>
     <extensions>
       <radius>400</radius>
@@ -63,15 +63,15 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.908186" lon="35.363259">  <ele>550</ele>
-    <name>KAM055</name>
+  <wpt lat="32.908186" lon="35.363259">  <ele>565</ele>
+    <name>KAM056</name>
     <desc>KAMON_TO</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.935188" lon="35.359429">  <ele>320</ele>
-    <name>KAM055</name>
+  <wpt lat="32.935188" lon="35.359429">  <ele>315</ele>
+    <name>HRA031</name>
     <desc>HAARI_LZ</desc>
     <extensions>
       <radius>400</radius>
@@ -85,7 +85,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.5805166666667" lon="34.9462333333333">  <ele>110</ele>
-    <name>ZRN010</name>
+    <name>ZRN011</name>
     <desc>ZICHRON_TO</desc>
     <extensions>
       <radius>400</radius>
@@ -98,7 +98,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.62305" lon="35.2894666666667">  <ele>70</ele>
+  <wpt lat="32.62305" lon="35.2894666666667">  <ele>65</ele>
     <name>AFJ006</name>
     <desc>AFULA_NORTH_JU</desc>
     <extensions>
@@ -112,7 +112,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.7887666666667" lon="35.6963">  <ele>330</ele>
+  <wpt lat="32.7887666666667" lon="35.6963">  <ele>335</ele>
     <name>NEO033</name>
     <desc>NEOT_GOLAN</desc>
     <extensions>
@@ -133,35 +133,35 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.36855" lon="34.98835">  <ele>27</ele>
-    <name>AMZ002</name>
+  <wpt lat="32.36855" lon="34.98835">  <ele>30</ele>
+    <name>AMZ003</name>
     <desc>OMETZ</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.8019833333333" lon="35.4821166666667">  <ele>40</ele>
-    <name>ARJ005</name>
+    <name>ARJ004</name>
     <desc>ARBEL_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.7113" lon="34.9517833333333">  <ele>10</ele>
-    <name>ATJ000</name>
+    <name>ATJ001</name>
     <desc>ATLIT_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.5617166666667" lon="35.3040333333333">  <ele>70</ele>
-    <name>ATJ007</name>
+  <wpt lat="32.5617166666667" lon="35.3040333333333">  <ele>65</ele>
+    <name>AVJ006</name>
     <desc>AVITAL_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.6590666666667" lon="35.5749333333333">  <ele>-200</ele>
+  <wpt lat="32.6590666666667" lon="35.5749333333333">  <ele>-205</ele>
     <name>AYA000</name>
     <desc>ASHDOT_YAAKOV</desc>
     <extensions>
@@ -169,14 +169,14 @@
     </extensions>
   </wpt>
   <wpt lat="32.5339666666667" lon="34.9288333333333">  <ele>10</ele>
-    <name>BHJ000</name>
+    <name>BHJ001</name>
     <desc>BEIT_HANANIA_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.72125" lon="35.4101666666667">  <ele>150</ele>
-    <name>BKJ014</name>
+    <name>BKJ015</name>
     <desc>BEIT_KESHET_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -197,14 +197,14 @@
     </extensions>
   </wpt>
   <wpt lat="32.7141" lon="34.9705833333333">  <ele>40</ele>
-    <name>BOJ003</name>
+    <name>BOJ004</name>
     <desc>BEIT_OREN_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.7616" lon="35.34605">  <ele>180</ele>
-    <name>BRJ018</name>
+    <name>KKJ018</name>
     <desc>KAFR_KANNA_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -224,7 +224,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.5583666666667" lon="35.5503833333333">  <ele>-220</ele>
+  <wpt lat="32.5583666666667" lon="35.5503833333333">  <ele>-230</ele>
     <name>BYO000</name>
     <desc>BEIT_YOSEF</desc>
     <extensions>
@@ -239,7 +239,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.7019833333333" lon="35.6027166666667">  <ele>-195</ele>
-    <name>MAA019</name>
+    <name>MAA000</name>
     <desc>MAAGAN_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -267,21 +267,21 @@
     </extensions>
   </wpt>
   <wpt lat="32.7012666666667" lon="35.3516833333333">  <ele>430</ele>
-    <name>DVR042</name>
+    <name>DVR043</name>
     <desc>DVORA_PE</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.6541833333333" lon="35.4241">  <ele>80</ele>
-    <name>EDO007</name>
+    <name>EDO008</name>
     <desc>EIN_DOR</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.8293833333333" lon="35.4093">  <ele>200</ele>
-    <name>ELJ019</name>
+    <name>ELJ020</name>
     <desc>EILABUN_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -315,7 +315,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.551" lon="35.3947333333333">  <ele>-40</ele>
+  <wpt lat="32.551" lon="35.3947333333333">  <ele>-45</ele>
     <name>GLB000</name>
     <desc>GILBOA_LZ</desc>
     <extensions>
@@ -323,7 +323,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.5351333333333" lon="35.3758833333333">  <ele>290</ele>
-    <name>GLB028</name>
+    <name>GLB029</name>
     <desc>GILBOA_TO</desc>
     <extensions>
       <radius>400</radius>
@@ -344,13 +344,13 @@
     </extensions>
   </wpt>
   <wpt lat="32.4591" lon="34.9866">  <ele>50</ele>
-    <name>HAN004</name>
+    <name>PAR004</name>
     <desc>PARDES_HANA_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.76205" lon="35.6608666666667">  <ele>315</ele>
+  <wpt lat="32.76205" lon="35.6608666666667">  <ele>310</ele>
     <name>KFA031</name>
     <desc>KFAR_HARUV</desc>
     <extensions>
@@ -379,22 +379,22 @@
     </extensions>
   </wpt>
   <wpt lat="32.5578833333333" lon="35.3176166666667">  <ele>90</ele>
-    <name>IZR008</name>
+    <name>IZR009</name>
     <desc>YIZREEL_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.6902166666667" lon="35.4191833333333">  <ele>130</ele>
-    <name>KFT011</name>
+    <name>KFT013</name>
     <desc>KFAR_TAVOR</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.6815666666667" lon="35.2998333333333">  <ele>375</ele>
-    <name>KFT033</name>
-    <desc>KFIZA_PE</desc>
+    <name>KFT037</name>
+    <desc>KFITZA_PE</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
@@ -408,14 +408,14 @@
   </wpt>
   <wpt lat="32.6396333333333" lon="34.9585666666667">  <ele>25</ele>
     <name>KMJ002</name>
-    <desc>KEREM_MAHARAL JU</desc>
+    <desc>KEREM_MAHARAL_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.5951333333333" lon="35.5213">  <ele>300</ele>
-    <name>KOK029</name>
-    <desc>KOCHAV_HAYARDEN PE</desc>
+  <wpt lat="32.5951333333333" lon="35.5213">  <ele>310</ele>
+    <name>KOK031</name>
+    <desc>KOCHAV_HAYARDE_PE</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
@@ -427,7 +427,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.5729333333333" lon="35.1925833333333">  <ele>105</ele>
+  <wpt lat="32.5729333333333" lon="35.1925833333333">  <ele>100</ele>
     <name>MGD010</name>
     <desc>MEGIDDO_JU</desc>
     <extensions>
@@ -435,7 +435,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.7055" lon="35.5646166666667">  <ele>-200</ele>
-    <name>MER019</name>
+    <name>MER000</name>
     <desc>MERKAVOT_HAYARDEN</desc>
     <extensions>
       <radius>400</radius>
@@ -455,14 +455,14 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.6171833333333" lon="35.3499333333333">  <ele>500</ele>
+  <wpt lat="32.6171833333333" lon="35.3499333333333">  <ele>495</ele>
     <name>MOR049</name>
     <desc>GIVAT_HAMORE_PE</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.7583166666667" lon="35.2337333333333">  <ele>140</ele>
+  <wpt lat="32.7583166666667" lon="35.2337333333333">  <ele>145</ele>
     <name>MOV014</name>
     <desc>HAMOVIL_JU</desc>
     <extensions>
@@ -470,14 +470,14 @@
     </extensions>
   </wpt>
   <wpt lat="31.7711166666667" lon="34.9619666666667">  <ele>330</ele>
-    <name>ZOR020</name>
+    <name>ZOR033</name>
     <desc>TSORA_TO</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.7791333333333" lon="35.2446333333333">  <ele>160</ele>
-    <name>MTJ015</name>
+    <name>HAN016</name>
     <desc>HANATON_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -485,14 +485,14 @@
   </wpt>
   <wpt lat="32.6895666666667" lon="35.0912666666667">  <ele>420</ele>
     <name>MUH042</name>
-    <desc>MOUHRAKA_TO</desc>
+    <desc>MUHRAKA_TO</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.827" lon="35.6499666666667">  <ele>-200</ele>
-    <name>CUR019</name>
-    <desc>COURSI_JU</desc>
+    <name>KUR020</name>
+    <desc>KURSI_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
@@ -505,21 +505,21 @@
     </extensions>
   </wpt>
   <wpt lat="32.5691666666667" lon="34.9337666666667">  <ele>10</ele>
-    <name>MZR000</name>
+    <name>MZR001</name>
     <desc>MUL_ZICHRON</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="31.882" lon="34.8870833333333">  <ele>100</ele>
+  <wpt lat="31.882" lon="34.8870833333333">  <ele>105</ele>
     <name>NAN010</name>
     <desc>NAAN_TO</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.6184" lon="35.39995">  <ele>126</ele>
-    <name>NAO012</name>
+  <wpt lat="32.6184" lon="35.39995">  <ele>125</ele>
+    <name>NAU012</name>
     <desc>NAURA_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -546,8 +546,8 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.7863166666667" lon="35.4955666666667">  <ele>150</ele>
-    <name>POR015</name>
+  <wpt lat="32.7863166666667" lon="35.4955666666667">  <ele>145</ele>
+    <name>POR014</name>
     <desc>PORIA_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -582,20 +582,20 @@
     </extensions>
   </wpt>
   <wpt lat="32.7505" lon="35.4184833333333">  <ele>190</ele>
-    <name>SDE018</name>
+    <name>SDE019</name>
     <desc>SDE_ILAN</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.6991666666667" lon="35.4309">  <ele>170</ele>
-    <name>SDJ018</name>
+    <name>SDJ017</name>
     <desc>SHADMOT_DVORA</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.5206666666667" lon="35.4838166666667">  <ele>-100</ele>
+  <wpt lat="32.5206666666667" lon="35.4838166666667">  <ele>-105</ele>
     <name>SDN000</name>
     <desc>SDE_NAHUM</desc>
     <extensions>
@@ -603,7 +603,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.3231833333333" lon="34.9042666666667">  <ele>40</ele>
-    <name>SHR003</name>
+    <name>SHR004</name>
     <desc>HASHARON_JU</desc>
     <extensions>
       <radius>400</radius>
@@ -617,27 +617,27 @@
     </extensions>
   </wpt>
   <wpt lat="32.6063333333333" lon="35.3306833333333">  <ele>110</ele>
-    <name>SLE010</name>
+    <name>SLE011</name>
     <desc>SULAM</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.44155" lon="35.0035833333333">  <ele>30</ele>
-    <name>SMR002</name>
+    <name>SMR003</name>
     <desc>EIN_SHEMER_TO</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.8071" lon="35.1468666666667">  <ele>82</ele>
-    <name>SOM008</name>
+  <wpt lat="32.8071" lon="35.1468666666667">  <ele>90</ele>
+    <name>SOM009</name>
     <desc>SOMEH_JUNC</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.72445" lon="35.4775833333333">  <ele>260</ele>
+  <wpt lat="32.72445" lon="35.4775833333333">  <ele>255</ele>
     <name>SRN025</name>
     <desc>SHARONA_TO</desc>
     <extensions>
@@ -645,14 +645,14 @@
     </extensions>
   </wpt>
   <wpt lat="32.6345166666667" lon="35.397">  <ele>190</ele>
-    <name>TAM018</name>
+    <name>TAM019</name>
     <desc>TAMRA_JU</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
   <wpt lat="32.6797333333333" lon="35.3690333333333">  <ele>120</ele>
-    <name>TLZ011</name>
+    <name>TLZ012</name>
     <desc>TAVOR_LZ</desc>
     <extensions>
       <radius>400</radius>
@@ -666,7 +666,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.688509" lon="35.382022">  <ele>465</ele>
-    <name>TVR047</name>
+    <name>TVR046</name>
     <desc>TAVOR_TO</desc>
     <extensions>
       <radius>400</radius>
@@ -679,7 +679,7 @@
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.7036833333333" lon="35.5061666666667">  <ele>-20</ele>
+  <wpt lat="32.7036833333333" lon="35.5061666666667">  <ele>-15</ele>
     <name>YAV000</name>
     <desc>YAVNIEL</desc>
     <extensions>
@@ -687,14 +687,14 @@
     </extensions>
   </wpt>
   <wpt lat="32.700261" lon="35.492157">  <ele>300</ele>
-    <name>YAV000</name>
+    <name>YAV030</name>
     <desc>YAVNIEL_TO</desc>
     <extensions>
       <radius>400</radius>
     </extensions>
   </wpt>
-  <wpt lat="32.7992166666667" lon="35.6757833333333">  <ele>290</ele>
-    <name>M28060</name>
+  <wpt lat="32.7992166666667" lon="35.6757833333333">  <ele>305</ele>
+    <name>GYO030</name>
     <desc>GIVAT_YOAV</desc>
     <extensions>
       <radius>400</radius>
