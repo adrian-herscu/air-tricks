@@ -190,7 +190,7 @@
     </extensions>
   </wpt>
   <wpt lat="32.7345833333333" lon="35.6339333333333">  <ele>-190</ele>
-    <name>MEV018</name>
+    <name>MEV000</name>
     <desc>MEVO_HAMA_LZ</desc>
     <extensions>
       <radius>400</radius>
