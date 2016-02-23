@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1/" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1/ http://www.topografix.com/GPX/1/1//gpx.xsd" creator="FlyChart, Version 4.57, Sep. 1st 2014 - http://www.flytec.ch">
+  <wpt lat="32.671458" lon="35.450689">  <ele>105</ele>
+    <desc>KKS010</desc>
+    <name>KFAR_KISCH</name>
+  </wpt>
   <wpt lat="32.095943" lon="35.461833">  <ele>350</ele>
     <desc>SRT035</desc>
     <name>SARTABA_PE</name>
